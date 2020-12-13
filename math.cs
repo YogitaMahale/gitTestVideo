@@ -7,9 +7,12 @@ namespace gitTestVideoEX
 {
     public class math
     {
-        public void add(int a,int b)
+        public void add()
         {
-            int res = a + b;
+            int x1 = 9;
+            int x2 = 2;
+
+            int res = x1 + x2; ;
 
         }
     }
